@@ -11,3 +11,5 @@ categories: new 2015
 现在
 
 要好好的 <big>写</big> 博客
+
+<img src="http://ww3.sinaimg.cn/mw690/0066lh88gw1er9qmuaezvj31kw17eh30.jpg" alt="">
